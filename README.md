@@ -3,8 +3,7 @@ This zip folder contains a simple website on which I tried to perform automation
 **Second**, Install selenium in your system either directly or through requirements.txt.
 
 **Running the Selenium Script**
-
-     **Option A**:**Using Local Server** (**Recommended**)
+    **Option A**:**Using Local Server** (**Recommended**)
      
       Open terminal in your website folder:
       
