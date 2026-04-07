@@ -18,7 +18,7 @@ This zip folder contains a simple website on which I tried to perform automation
 
 Use the full path to your index.html (or login.html) file:
 
-driver.get(r"file:///PATH_TO_YOUR_FOLDER")
+driver.get(r"file:///PATH_TO_YOUR_WEBSITE_FOLDER"), **Example**: driver.get(r"file:///D:/SeleniumTestProject/SeleniumTest Website/login.html")
 
 **Run the Selenium script**:
 
