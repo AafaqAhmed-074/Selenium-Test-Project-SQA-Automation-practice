@@ -9,15 +9,7 @@ This zip folder contains a simple website on which I tried to perform automation
       
       cd "PATH_TO_YOUR_TESTWEBSITE"
       
-      python -m http.server 3000
-      
-**Update URLs in test_script.py**:
-
-     driver.get("http://localhost:3000/login.html")
-     
-     driver.get("http://localhost:3000/about.html")
-     
-     driver.get("http://localhost:3000/contact.html")
+      python -m http.server 3000      
      
 **Run the Selenium script**:
       python test_script.py
