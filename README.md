@@ -3,6 +3,7 @@ This zip folder contains a simple website on which I tried to perform automation
 **Second**, Install selenium in your system either directly or through requirements.txt.
 
 **Running the Selenium Script**
+
      **Option A**:**Using Local Server** (**Recommended**)
      
       Open terminal in your website folder:
@@ -12,6 +13,7 @@ This zip folder contains a simple website on which I tried to perform automation
       python -m http.server 3000
       
 **Update URLs in test_script.py**:
+
      driver.get("http://localhost:3000/login.html")
      
      driver.get("http://localhost:3000/about.html")
